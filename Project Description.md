@@ -1,1 +1,14 @@
+# Automatic garden hydration system using Raspberry PI
 
+The aim of the project was to create automatic system to control water valves of garden hydration system. The system consists of several components:
+
+1.	**Main valve controller** which is placed in basement. It consists from:
+  -	**ESP8266 circuit** – the most important part in controller, allows for WiFi communication in 802.11 b/g/n standard. Thanks to UART interface and GPIO pins its perfect choice for simple remote control circuit.
+  -	**Electromagnetic Switches Module** – allows for switching 18 AC Voltage for different valves
+  -	**Compact 360AC – 5 V Power Supply** needed for Switches and ESP8266
+  - **360AC – 18AC Transformer** which provide power for water valves
+  -	**Prototype PCB** to simplify wire connections
+  -	**Homemade plastic case** which I got from old box 😊
+  -	**External antenna with prepared socket in box** instead of default PCB antenna
+2. **Raspberry Pi** placed in living room near the local network router.
+3. **The box with 6 electric water valves** placed in garden near water source.
