@@ -16,5 +16,5 @@ The aim of the project was to create automatic system to control water valves of
     - Raspbian Lite
     - Domoticz service
     - Monit service
-### 3. **The box with 6 electric water valves** placed in garden near water source.
+### 3. **The box with 5 electric water valves** placed in garden near water source.
   - Six water valves control six different pumplines of water irrigation system. System is designed to irrigate the surface of 800 squared meters in garden.
