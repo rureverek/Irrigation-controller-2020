@@ -9,4 +9,5 @@ During my project I had to face some problems with board such as:
 -	Poor PCB antenna range
 -	No external antenna socket (in my specific model, there are models with the socket for external antennas on the market)
 -	The number of available GDPIO pins is greatly reduced since some of them have multiple functions such as I2C/PWM/Reset handling and using this board for more complex project can be inconvenient. However, it was enough for my project.
-I intent to place my controller circuit in basement while Local Network Router was placed on the first floor of building. I had to face problem with poor antenna. 
+
+I intent to place my controller circuit in basement while Local Network Router was placed on the first floor of building. I had to face problem with poor antenna. I erased the PCB antenna path and soldered the external antenna socket into it. In this way I managed to set my controller inside basement with quite good 60-70 dBm RSSI. 
