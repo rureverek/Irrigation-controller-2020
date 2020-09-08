@@ -6,7 +6,7 @@
 - ESPEasy: https://github.com/letscontrolit/ESPEasy
 
 
-Domoticz:
+### Domoticz:
 <img src="https://github.com/rureverek/Irrigation-controller-2020/blob/master/domoticz1.png"
      alt="Domoticz1"
      style="float: left; margin-right: 10px;" />
@@ -28,3 +28,25 @@ Setting page contains important information for Domoticz Service for correct beh
 Fig 3. The program for irrigation system.
 
 As shown on figure, Domoticz client page provides the tool for programming switch states depending on time/states etc using Blocky interface. Also there are much advanced options and Domoticz allows for creating programs in different languages like Python. Here is example of my irrigation lane program: switch is turned on for 30 mins at 4 am every day.
+
+### ESPEasy:
+
+ <img src="https://github.com/rureverek/Irrigation-controller-2020/blob/master/esp1.png"
+     alt="Esp1"
+     style="float: left; margin-right: 10px;" />
+Fig 4. 
+
+ <img src="https://github.com/rureverek/Irrigation-controller-2020/blob/master/esp2.png"
+     alt="Esp2"
+     style="float: left; margin-right: 10px;" />
+Fig 5. 
+
+ <img src="https://github.com/rureverek/Irrigation-controller-2020/blob/master/esp3.png"
+     alt="Esp3"
+     style="float: left; margin-right: 10px;" />
+Fig 6.
+
+
+
+
+
